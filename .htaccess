@@ -1,0 +1,5 @@
+# Exempelfil för server2
+
+# aktivera rewrite
+RewriteEngine on
+
